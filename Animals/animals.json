@@ -1,0 +1,72 @@
+{
+  "cats": [
+    {
+      "breed": "Siamese",
+      "age": 5,
+      "name": "Seizure",
+      "gender": "Male"
+    },
+    {
+      "breed": "Sphynx",
+      "age": 24,
+      "name": "Meowth",
+      "gender": "Male"
+    },
+    {
+      "breed": "Munchkin",
+      "age": 52,
+      "name": "Persia",
+      "gender": "Female"
+    },
+    {
+      "breed": "Ragdoll",
+      "age": 7,
+      "name": "Jenny",
+      "gender": "Female"
+    },
+    {
+      "breed": "Bengal",
+      "age": 92,
+      "name": "Milo",
+      "gender": "Male"
+    }
+  ],
+  "dogs": [
+    {
+      "breed": "Chihuahua",
+      "age": 11,
+      "name": "Belle",
+      "gender": "Female"
+    },
+    {
+      "breed": "Terrier",
+      "age": 30,
+      "name": "Chances",
+      "gender": "Male"
+    },
+    {
+      "breed": "French Bulldog",
+      "age": 43,
+      "name": "Whatever",
+      "gender": "Female"
+    },
+    {
+      "breed": "Poodle",
+      "age": 2,
+      "name": "Something",
+      "gender": "Female"
+    },
+    {
+      "breed": "Corgi",
+      "age": 42,
+      "name": "Elizabeth",
+      "gender": "Female"
+    },
+    {
+      "breed": "Pomeranian",
+      "age": 128,
+      "name": "Whatever",
+      "gender": "Male"
+    }
+  ]
+}

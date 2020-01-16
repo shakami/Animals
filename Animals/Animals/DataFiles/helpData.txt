@@ -1,0 +1,16 @@
+﻿add(a) Animal-Type Animal-Name Age Gender,adds a new animal to the collection
+remove(r) Animal-Name,removes the animal with the given name
+list(l),displays all animals currently in the data file
+list(l) Animal-Type,displays all animals of the specified type
+oldest(o),displays the oldest animal in the collection
+oldest(o) Animal-Type,displays the oldest animal of the specified type
+youngest(y),displays the youngest animal in the collection
+youngest(y) Animal-Type,displays the youngest animal of the specified type
+duplicate(d),displays the duplicate names in the collection
+count(c) Animal-Type,number of animals of the specified type
+count(c) Gender,number of animals of the specified gender
+count(c) Gender Animal-Type,number of animals of the specified type and gender
+save(s),save collection data
+help(h),the help screen
+clear,clear the screen
+quit(q),exits the application

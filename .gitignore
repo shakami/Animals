@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Animals/.vs/Animals/v16
+/Animals/Animals/obj
+/Animals/Animals.Collection/obj
+/Animals/Animals.Repository/obj
